@@ -35,4 +35,4 @@ This project uses **K-Means clustering** and **Tableau dashboards** to segment e
 
 ## 📢 Connect with Me
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mehmet-akif-cing%C3%B6z-086072181/)  
-📩 [Email](cingozm4@gmail.com)
+📩 [Email] cingozm4@gmail.com
